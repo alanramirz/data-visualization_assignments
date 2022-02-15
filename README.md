@@ -1,2 +1,1 @@
-# week1--data-visualization
-this is my first work for the data visualization course
+work 1 and 2 of the data and visualization course
